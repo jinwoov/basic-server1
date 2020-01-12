@@ -2,7 +2,7 @@
 A website that represent my previous work and explain about myself.
 
 # How to run this website
-Deployed Website: https://portfoli0o.herokuapp.com/
+Deployed Website: https://portfoli0o.herokuapp.com/  
 Otherwise, run terminal and open `live-server` from head repo or open deployed website.
 
   
