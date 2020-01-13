@@ -73,3 +73,7 @@ Credits:
 
 	Picture
 		Photo by Remi Yuan on Unsplash
+		Photo by Abigail Lynn on Unsplash
+		Photo by Sean O. on Unsplash
+		Photo by Jeremy Bishop on Unsplash
+
