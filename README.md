@@ -2,12 +2,11 @@
 A website that represent my previous work and explain about myself.
 
 # How to run this website
-Deployed Website: https://portfoli0o.herokuapp.com/
+Deployed Website: https://portfoli0o.herokuapp.com/  
 Otherwise, run terminal and open `live-server` from head repo or open deployed website.
 
   
-/////////////////////////////////////// Time Allotment///////////////////////////////////////
-portfolio for my project that I worked on and showcase it to the world!
+/////////////////////////////////////// Time Allotment///////////////////////////////////////  
 
 Number and name of feature: Feature #1: Refactor the CSS
 
@@ -29,7 +28,7 @@ Finish time: 1:30 PM
 
 Actual time needed to complete: 2hr
 
-/////////////////////////////////////// Credit for website///////////////////////////////////////
+/////////////////////////////////////// Credit for website///////////////////////////////////////  
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
@@ -77,3 +76,4 @@ Credits:
 		Photo by Abigail Lynn on Unsplash
 		Photo by Sean O. on Unsplash
 		Photo by Jeremy Bishop on Unsplash
+
